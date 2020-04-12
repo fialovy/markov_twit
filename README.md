@@ -11,4 +11,5 @@ ACCESS_TOKEN_SECRET = <your_access_token_secret>
 ```
 - The [specific MarkovBot we use](https://github.com/esdalmaijer/markovbot) is not the pypi one, so you can install it locally right in this directory. Sue me.
 - Choose your seed words, and update the list in `markov_twit.py` accordingly.
+- Ensure you have the Twitter libraries we need: `pip install -r requirements.txt`
 - `python markov_twit.py` . This should be Python 3+, of course, unless you wanna go to Unicode hell.
