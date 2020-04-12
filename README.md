@@ -1,5 +1,6 @@
 How to use this yourself?!
 --------------------------
+- [What is a Markov chain?](https://www.reddit.com/r/explainlikeimfive/comments/5chwkt/eli5_what_is_a_markov_chain/)
 - Set yourself up for the Twitter API! [Here](http://www.pygaze.org/2016/03/how-to-code-twitter-bot/) is an example with instructions for creating an app and obtaining keys/access tokens.
 - Make a twitter_credentials.py (gitignored because security!) It needs to look like this:
 ```
